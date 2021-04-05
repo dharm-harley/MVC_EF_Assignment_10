@@ -1,0 +1,16 @@
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EF_Start.deps.json
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EF_Start.runtimeconfig.json
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EF_Start.runtimeconfig.dev.json
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EF_Start.dll
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EF_Start.pdb
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EF_Start.csprojAssemblyReference.cache
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EF_Start.AssemblyInfoInputs.cache
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EF_Start.AssemblyInfo.cs
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EF_Start.csproj.CoreCompileInputs.cache
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EF_Start.dll
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EF_Start.pdb
+C:\Users\Dharm\source\repos\MVC_EF_Start-master\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EF_Start.genruntimeconfig.cache
