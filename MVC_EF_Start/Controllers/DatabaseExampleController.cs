@@ -95,8 +95,8 @@ namespace MVC_EF_Start.Controllers
         public ViewResult LINQOperations()
         {
             Product ProductRead1 = dbContext.Products
-                                            .Include(o => o.ProductOrders)
-                                            .Where(o => o.name == "Oreos")
+                                            .Include(c => c.ProductOrders)
+                                            .Where(c => c.name == "Cake1")
                                             .First();
             return View();
         }
